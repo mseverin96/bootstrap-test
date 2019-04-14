@@ -1,0 +1,53 @@
+
+html {
+}
+
+#about {
+  margin-bottom:50px;
+}
+
+#about .row1 {
+  margin-bottom:30px;
+}
+
+#about .row1 h2 {
+  font-size:32px;
+}
+
+#about .row2 {
+  background-color: lightgray;
+  font-size:20px;
+  margin-bottom:30px;
+  padding:0;
+}
+
+#about img {
+  max-height:250px;
+  height:auto;
+}
+
+/* Skills */
+
+#skills .row1 {
+  margin-bottom:30px;
+}
+
+#skills .btn {
+  width:100%;
+  margin-bottom:60px;
+}
+
+#skills .btn h2 {
+  padding-bottom:20px;
+}
+
+#skills .btn .glyphicon {
+  font-size:75px;
+}
+
+/* Test Section */
+
+
+#test .btn {
+  width:50%;
+}
